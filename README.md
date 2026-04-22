@@ -25,4 +25,4 @@
 <br>
 <br>
 <br>
-<p style='text-align:center;font-style:italic '>Made with Passion & Love by Rakesh 💝</p>
+<p style='text-align:center;font-style:italic '>Made with Passion & Love by Musharraf</p>
